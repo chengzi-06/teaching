@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+output/
+outputs/
+dist/
+tmp/
+*.pptx

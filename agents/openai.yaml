@@ -1,0 +1,4 @@
+interface:
+  display_name: "日语视觉精讲 PPT"
+  short_description: "日语课文精讲，支持场景配图和数据图表"
+  default_prompt: "Use $japanese-visual-lesson-ppt to turn this Japanese article into a visually polished intensive-reading PPT with optional images and charts."
